@@ -21,7 +21,7 @@ class _HesaplamaSayfasiState extends State<HesaplamaSayfasi> {
     return Scaffold(
       appBar: AppBar(
         title: Text(
-          "Vücut Kitle Endeksi",
+          "Vücut Kitle İndeksi",
           style: TextStyle(fontSize: 24),
         ),
         backgroundColor: Colors.yellowAccent,
