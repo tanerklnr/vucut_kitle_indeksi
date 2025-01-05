@@ -1,16 +1,6 @@
-# vucut_kitle_indeksi_ana
-
 Vücut Kitle İndeksi hesaplayabileceğiniz uygulama.
+![vucut_kitle_indeksi_1](https://github.com/user-attachments/assets/b5b76948-1431-486b-9c03-5890f4dcb75e)
 
-## Getting Started
+![vucut_kitle_indeksi_2](https://github.com/user-attachments/assets/49bfa3ab-32eb-4185-a144-badd4912bf08)
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![vucut_kitle_indeksi_3](https://github.com/user-attachments/assets/09743edc-6fc9-4029-a000-502129e68be3)
